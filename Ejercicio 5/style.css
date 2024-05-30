@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 1%;
+    font-size: 25px;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+    margin: auto;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 45%;
+    background-color: black;
+    color: greenyellow;
+    border-color: white;
+    margin-left: 35%;
+    margin-top: 5%;
+}
