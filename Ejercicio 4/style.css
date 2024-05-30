@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+
+.asd{
+    display: grid;
+    place-items: center;
+    margin: auto;
+}
+
+button{
+    font-size: 18px;
+    border-radius: 45%;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
