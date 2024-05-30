@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+#contenedorPersonas{
+    border: 2px solid;
+    margin-top: 10px;
+    background-color: #f5f5dc;
+    border-radius: 20px;
+    padding-left: 30px;
+}
+
+#botonTareas{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    min-width: 200px;
+    background-color:greenyellow;
+    color: black;
+    border: 2px solid;
+    border-color: black;
+}
