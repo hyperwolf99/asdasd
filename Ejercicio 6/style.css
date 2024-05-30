@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 1%;
+    font-size: 25px;
+}
+
+button{
+    font-size: 20px;
+    border-radius: 45%;
+    background-color: black;
+    color: greenyellow;
+    border-color: white;
+}
