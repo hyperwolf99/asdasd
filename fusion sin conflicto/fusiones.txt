@@ -1,1 +1,4 @@
 primera fusion main y ramasc1
+segunda fusion main y ramasc2
+tercera fusion main y ramasc3
+cuarta fusion main y ramasc4
